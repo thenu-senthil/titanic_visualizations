@@ -7,7 +7,7 @@ Summary statistics are used by data analysts to make sense of data. Python visua
 The following are possible:
 
  - evaluating mean and median, as well as differences
- - side-by-side plts
+ - side-by-side plots
  - overlapped histograms
  - pair-wise comparisons for different variable types
 
@@ -15,7 +15,7 @@ Project:
 
 Data is available online for the fare of each passenger and whether or not they survived. The fare is a quantitative value, and whether they survived or not is a binary value. 
 
-titanic_summary.py does the following things:
+summary_titanic.py does the following things:
 
 - calculate mean diff of fares from survivors and victims
 - calculate med diff of fares from survivors and victims
